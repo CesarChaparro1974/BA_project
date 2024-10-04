@@ -59,9 +59,3 @@
   - source_id — ad source identifier
   - dt — date
   - costs — expenses on this ad source on this day
-
-
-### Installing 
-* Clone the Repo and run npm install and npm run to run on localhost
-
-[Click here to see live Version --> ](https://newmovies.netlify.app)
