@@ -26,7 +26,7 @@
    - How many sessions are there per day? (One user might have more than one session.)
    - What is the length of each session?
    - What's the user retention rate?<br>
- 2.2. Sales:<br>
+   2.2. Sales:<br>
    - When do people start buying? (In KPI analysis, we're usually interested in knowing the time that elapses between registration and conversion — when the user becomes a customer. For example, if registration and the first purchase occur on the same day, the user might fall into category Conversion 0d. If the first purchase happens the next day, it will be Conversion 1d. You can use any approach that lets you compare the conversions of different cohorts, so that you can determine which cohort, or marketing channel, is most effective.)
    - How many orders do they make during a given period of time?
    - What is the average purchase size?
